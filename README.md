@@ -36,6 +36,6 @@ A mini web application that allows users to list skills they offer and request s
 | Frontend       | Backend      | Styling      |
 |----------------|--------------|--------------|
 | React.js       | Node.js      | Tailwind CSS |
-| JavaScript     | Express.js   |              |
+| TypeScript     | Express.js   |              |
 
 <img width="4828" height="1994" alt="Skill Swap Platform - 8 hours" src="https://github.com/user-attachments/assets/97260c28-898f-4880-a43d-8f1a15ec1f8c" />
