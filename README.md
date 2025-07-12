@@ -1,7 +1,12 @@
 # 🛠️ Skill Swap Platform
 
-A mini web application that allows users to list skills they offer and request skills from others in return. This platform promotes community-based learning and collaboration through mutual skill exchanges.
+A mini web application that allows users to list skills they offer and request skills from others in return. This platform promotes community-based learning and collaboration through mutual skill exchanges which we developed for Odoo Hackathon 2025.
 
+## Team Malefic
+Jihirsh Singh - jihirshsingh12@gmail.com
+Dindayal Sinha - dindayalsinha301@gmail.com
+Nishant Gupta - nishantgupta2022@vitbhopal.ac.in
+Nehil Nama - namanehil2004@gmail.com
 
 
 ## 🚀 Features
