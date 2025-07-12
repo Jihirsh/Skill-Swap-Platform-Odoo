@@ -27,7 +27,7 @@ A mini web application that allows users to list skills they offer and request s
 - Ban users violating platform rules
 - Monitor all swap activities (pending, accepted, cancelled)
 - Send announcements or platform-wide messages
-- Export reports (user activity, feedback logs, swap statistics)
+- Export reports (user activity, feedback logs, swap statistics).
 
 
 
